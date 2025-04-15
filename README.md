@@ -1,6 +1,6 @@
 ## YouTube Video
 
-[![How to install MySQL on Casa OS](https://img.youtube.com/vi/pcMirAEIKL0/0.jpg)](https://www.youtube.com/watch?v=pcMirAEIKL0)
+##[![How to install MySQL on Casa OS](https://img.youtube.com/vi/pcMirAEIKL0/0.jpg)](https://www.youtube.com/watch?v=pcMirAEIKL0)
 
 ## MySQL Icon
 
