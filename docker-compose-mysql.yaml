@@ -18,7 +18,7 @@ services:
       MYSQL_DATABASE: casaos
 
       # The username for a new user to be created.
-      MYSQL_USER: bigbear
+      MYSQL_USER: myuser
 
       # The password for the new user.
       MYSQL_PASSWORD: password
